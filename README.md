@@ -16,6 +16,14 @@ I build production backends and AI-integrated systems — REST APIs, event-drive
 
 ## Featured work
 
+### Case studies
+
+**[vireo-platform-case-study](https://github.com/amodevinc/vireo-platform-case-study)** — Case study: Belize property discovery platform — live at properties.vireo.bz. Architecture and engineering decisions (no source).
+
+**[basecamp-concierge-case-study](https://github.com/amodevinc/basecamp-concierge-case-study)** — Case study: bilingual multi-tenant guest concierge platform — live at cayobasecamp.com. Architecture and engineering decisions (no source).
+
+### Projects
+
 **[CodeLens](https://github.com/amodevinc/CodeLens)** — Full-stack AI code review platform. FastAPI + JWT auth + SQLAlchemy backend, React/TypeScript dashboard, an LLM-backed review engine with a tested rule-based fallback, 9-test pytest suite, and CI on every push.
 
 **[DRT-Research](https://github.com/amodevinc/DRT-Research)** — Demand-responsive transit simulation platform built from scratch: event-driven dispatch and routing engine with contextual-bandit policies (LinUCB, Thompson Sampling) evaluated across 900 scenario-days. Cut mean wait times 30-40% and raised service rates 20-31% against a greedy baseline.
